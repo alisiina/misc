@@ -7,4 +7,5 @@ Random byte-sized projects in data science, machine learning, and AI
   <li><a href='https://nbviewer.jupyter.org/github/alisiina/misc/blob/master/My%20Custom%20KNN.ipynb'>My Custom KNN</a>: Learning about KNN with the abalone dataset by creating my own custom KNN algorithm.</li>
   <li><a href='https://nbviewer.jupyter.org/github/alisiina/misc/blob/master/Playing%20with%20Pandas.ipynb'>Playing with Pandas</a>: Just practicing a few Pandas skills.</li>
   <li><a href='https://nbviewer.jupyter.org/github/alisiina/misc/blob/master/Visualizing%20with%20PCA%20and%20t-SNE.ipynb'>Visualizing with PCA and t-SNE</a>: Visualizing high-dimensional datasets using PCA and t-SNE.</li>
+  <li><a href='https://nbviewer.jupyter.org/github/alisiina/misc/blob/master/Afghanistan%20Provincial%20Pop%20Visuals.ipynb'>Afghanistan Provincial Pops<a/>: Geospatial plotting of Afghanistan's estimated provincial populations (2015/2016).</li>
 </ul>
