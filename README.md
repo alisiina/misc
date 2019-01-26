@@ -8,4 +8,4 @@ Random byte-sized projects in data science, machine learning, and AI
 - **[Visualizing with PCA and t-SNE](https://nbviewer.jupyter.org/github/alisiina/misc/blob/master/Visualizing%20with%20PCA%20and%20t-SNE.ipynb):** Visualizing high-dimensional datasets using PCA and t-SNE.
 - **[Afghanistan Provincial Pops](https://nbviewer.jupyter.org/github/alisiina/misc/blob/master/Afghanistan%20Provincial%20Pop%20Visuals.ipynb):** Geospatial plotting of Afghanistan's estimated provincial populations (2015/2016).
 
-> **Note to self:** See [this page](https://jakevdp.github.io/PythonDataScienceHandbook/04.11-settings-and-stylesheets.html) of Python Data Science Handbook for customizing the default plot configurations and stylesheets.
+> **Note to self:** See [this page](https://jakevdp.github.io/PythonDataScienceHandbook/04.11-settings-and-stylesheets.html) of Python Data Science Handbook for customizing the default plot configurations and stylesheets of `matplotlib`.
