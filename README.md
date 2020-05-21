@@ -9,6 +9,6 @@ Random byte-sized projects in data science, machine learning, and AI
 - **[Afghanistan Provincial Pops](https://nbviewer.jupyter.org/github/sinablk/misc/blob/master/Afghanistan%20Provincial%20Pop%20Visuals.ipynb):** Geospatial plotting of Afghanistan's estimated provincial populations (2015/2016).
 - **[India Venture Capital Market Analysis](https://nbviewer.jupyter.org/github/sinablk/misc/blob/master/Task2.ipynb):** Task for job interview.
 - **[Snippets from the book _Applied Text Analysis_](https://nbviewer.jupyter.org/github/sinablk/misc/blob/master/applied_text_analysis.ipynb):** Cool object-oriented NLP stuff from the O'Reilly book [Applied Text Analysis](http://shop.oreilly.com/product/0636920052555.do).
-- **[Topic Modeling](https://nbviewer.jupyter.org/github/sinablk/misc/blob/master/corex.ipynb):** Anchored CorEx: Hierarchical Topic Modeling with Minimal Domain Knowledge ([link](https://github.com/gregversteeg/corex_topic)).
+
 
 > **Note to self:** See [this page](https://jakevdp.github.io/PythonDataScienceHandbook/04.11-settings-and-stylesheets.html) of Python Data Science Handbook for customizing the default plot configurations and stylesheets of `matplotlib`.
